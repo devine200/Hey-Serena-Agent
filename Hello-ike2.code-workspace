@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../downloads/Hello-ike2"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../hello-ike-server"
+		}
+	],
+	"settings": {}
+}
